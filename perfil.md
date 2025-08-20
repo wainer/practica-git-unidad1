@@ -17,6 +17,11 @@
 **Periodo:** [Año inicio - Año fin]  
 **Descripción:** Breve descripción de tus estudios, especializaciones o proyectos destacados.
 
+### [Cursos y Certificaciones]
+- [Certificación 1] - [Institución] ([Año])
+- [Certificación 2] - [Institución] ([Año])
+- [Certificación 3] - [Institución] ([Año])
+
 ## Contacto
 - Email: [Tu email]
 - LinkedIn: [Tu perfil de LinkedIn]
