@@ -1,32 +1,32 @@
 # Mi Perfil Profesional
 
 ## Datos Personales
-- Nombre: [Tu Nombre]
-- Profesión: [Tu Profesión]
-- Ubicación: [Ciudad, País]
+- Nombre: Wainer
+- Profesión: Ing. Sistemas
+- Ubicación: Santo Domingo, RD.
 
 ## Habilidades
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
+- Desarrollador Delphi
+- Administración de Bases de Datos
+- Desarrollo web
 
 ## Experiencia Laboral
 
 ### [Nombre de la Empresa 1]
-**Cargo:** [Tu cargo]  
-**Periodo:** [Fecha inicio - Fecha fin]  
-**Descripción:** Breve descripción de tus responsabilidades y logros.
+**Cargo:** Digitacion  
+**Periodo:** 01/09/2001 - 31/12/2001
+**Descripción:** Digitación de documentos médicos, méritos de la digitación más rápida.
 
 ### [Nombre de la Empresa 2]
-**Cargo:** [Tu cargo]  
-**Periodo:** [Fecha inicio - Fecha fin]  
-**Descripción:** Breve descripción de tus responsabilidades y logros.
+**Cargo:** Profesor  
+**Periodo:** 01/01/2002 - 31/12/2005  
+**Descripción:** Profesor de informática.
 
 ### [Nombre de la Empresa 3]
-**Cargo:** [Tu cargo]  
-**Periodo:** [Fecha inicio - Fecha fin]  
-**Descripción:** Breve descripción de tus responsabilidades y logros.
+**Cargo:** Administrador Base de Datos 
+**Periodo:** 01/01/2012 - Actual  
+**Descripción:** Enc. Administracion de Bases de Datos y Desarrollador Apps de escritorio.
 
 ## Contacto
-- Email: [Tu email]
-- LinkedIn: [Tu perfil de LinkedIn]
+- Email: wainernegocios@gmail.com
+- LinkedIn: wainer
